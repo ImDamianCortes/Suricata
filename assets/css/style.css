@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.fondo-rosa{
+    background-color: #e83e8c!important;
+  }
+  .logo-imagen{
+    max-height: 50px;
+  }
+  .hero h1{
+    font-size: 3.5em;
+  }
+  .card-body h5{
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .card-body p{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .card-body a{
+    color: #1C7CD5;
+  }
+  .icons-section{
+    color: white;
+    font-size: 2.5em;
+  }
+  .fa-iconos{
+    font-size: 2em;
+  }
+  .pagos h2{
+    font-size: 0.99em;
+    padding-top: 10%;
+  }
+  .logo-footer{
+    max-height: 100px;
+  }
